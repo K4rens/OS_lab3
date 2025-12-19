@@ -1,5 +1,6 @@
 # OS_lab3
 VARIANT 5 
+
 <img width="622" height="389" alt="image" src="https://github.com/user-attachments/assets/179105ea-a290-4bbe-b21e-c2554154f455" />
 <img width="622" height="612" alt="image" src="https://github.com/user-attachments/assets/146e3fb4-ebd1-466a-a92a-3091f9723762" />
 Пользователь вводит команды вида: «число<endline>». Далее это число передается от
